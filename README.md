@@ -1,7 +1,7 @@
 # aurora, xexmenu and dashlaunch pack:
 ## This is a pack for xbox360 with aurora, dashlaunch and xexmenu.
 ### 1: First, plug your empty usb drive into your xbox360, next go to system, storage, press Y when you are on your usb drive, then format it.
-### 2: Second, unplug your usb drive and plug in to your computer, download the latest release, unzip the .rar and put the content of the xbox360 folder into your usb drive formated in fat32.
+### 2: Second, unplug your usb drive and plug in to your computer, download the latest release, extract the .rar and put the content of the xbox360 folder into your usb drive formated in fat32.
 ### 3: Third, plugin the usb drive into your moded xbox360 (JTAG/RGH) go to system, Storage, your usb drive, demos, xexmenu, and copy to your hdd or ssd.
 ### 4: Fourth, go to the menu, go to my games, and launch xexmenu.
 ### 5: When you are in xexmenu, press RB,hightlight the aurora folder and press Y, select copy, press the right d-pad button, press Y, select create a new folder, named it Apps, go to your new Apps folder, and press Y and paste. Do the same things for dashlaunch and xellaunch.
